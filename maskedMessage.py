@@ -1,10 +1,11 @@
-from colorama import Fore
+from colorama import Fore, init
 import re
 import pyperclip
 import sys
 import requests
 import warnings
 
+init()
 
 CONSOLE = True
 SELFBOT = False
