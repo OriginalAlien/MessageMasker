@@ -4,6 +4,7 @@ This exploit gives you the ability to mask messages (hide messages inside other 
 
 ## Examples
 If the information isnt specified via the command line - you will be asked it via inputs
+# BY DEFAULT SELFBOT IS NOT ENABLED AND COMMAND LINE ARGUMENTS ARE NOT NEEDED!
 
 ---
 
